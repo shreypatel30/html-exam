@@ -1,0 +1,23 @@
+table, th, td {
+    border:rgb(61, 58, 58) solid;
+    border-width: 1px;
+    background-color: rgb(61, 58, 58);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+td {
+    text-align:center;
+}
+body {
+    list-style-type: none;
+    background-color: rgb(235, 235, 235);
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+    font-size: 20px;
+}
+img {
+    border: 2px solid;
+}
